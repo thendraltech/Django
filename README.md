@@ -1,10 +1,10 @@
 # Django
 
-###How do you program servers?
-```Back-end development=Programming servers
+### How do you program servers?
+Back-end development=Programming servers
 programming languages like python,pearl,PHP
-```
-##Django
+
+## Django
 ``` Free & open source back-end framework
 ```
 
